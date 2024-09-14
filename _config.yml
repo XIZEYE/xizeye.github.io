@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xize Ye's Personal Webpage"
+title                    : "Xize Ye's Homepage"
 title_separator          : "-"
 name                     : &name "Xize"
 description              : &description "PhD candidate in Statistics, Financial Modelling Field"
@@ -24,7 +24,7 @@ author:
   avatar           : "photo_squared.jpg"
   name             : "Xize"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in Statistics, Financial Modelling Field | A lifelong learner and explorer"
+  bio              : "PhD candidate in Statistics <br />Financial Modelling Field <br />A lifelong learner and explorer"
   location         : "Ontario, Canada"
   employer         : #
   uri              : # URL
