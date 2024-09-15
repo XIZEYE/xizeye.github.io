@@ -35,9 +35,9 @@ Education
  * MSc in Statistics, Financial Modelling,  Western University, London, ON, Canada. 2019 - 2021.
 	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/etd/7923/)<br/><br/>
  * BMath in Mathematical Finance, Pure Mathematics Minor, University of Waterloo, Waterloo, ON, Canada. 2015 - 2019.
-	* Graduated with distinction
-  	* Faculty of Mathematics Entrance Scholarship
-  	* University of Waterloo President's Scholarship
+	 * Graduated with distinction
+	 * Faculty of Mathematics Entrance Scholarship
+	 * University of Waterloo President's Scholarship
 
 Contact
 ------
