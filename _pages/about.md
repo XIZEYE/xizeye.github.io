@@ -36,8 +36,8 @@ Education
 	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/etd/7923/)<br/><br/>
  * BMath in Mathematical Finance, Pure Mathematics Minor, University of Waterloo, Waterloo, ON, Canada. 2015 - 2019.
 	 * Graduated with distinction
-	 * University of Waterloo President's Scholarship. 2015 - 2019.
-	 * Faculty of Mathematics Entrance Scholarship.
+         * Faculty of Mathematics Entrance Scholarship
+         * University of Waterloo President's Scholarship
 
 Contact
 ------
@@ -67,4 +67,4 @@ January 04, 2024
 October 25, 2023
 :   Happy to announce that I joined the Graduate Affairs Committee as a graduate student representative. 
 
-Webpage last updated: September 14, 2024
+Webpage last updated: September 15, 2024
