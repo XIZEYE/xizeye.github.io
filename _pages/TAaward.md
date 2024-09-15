@@ -9,4 +9,6 @@ I am deeply honored to receive the 2023 - 2024 Faculty of Science Graduate Stude
 
 <img src="/images/TA_award.jpg" alt="Image" width="400"/>
 
+[Back to homepage](https://xizeye.github.io/)
+
 *[DSAS]: Department of Statistical and Actuarial Sciences
