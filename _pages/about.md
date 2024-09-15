@@ -29,9 +29,9 @@ Education
  * PhD candidate in Statistics, Financial Modelling, Western University, London, ON, Canada. 2021 - 2025 (expected).
 	 * Graduate Affairs Committee (GAC) student representative
 	 * Society of Graduate Students (SOGS) department councillor
-	 * 2023 - 2024 Faculty of Science Graduate Student Teaching Award<br/><br/>
+	 * 2023 - 2024 [Faculty of Science Graduate Student Teaching Award](https://xizeye.github.io/TAaward)<br/><br/>
  * MSc in Statistics, Financial Modelling,  Western University, London, ON, Canada. 2019 - 2021.
-	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=10524&context=etd)<br/><br/>
+	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/etd/7923/)<br/><br/>
  * BMath in Mathematical Finance, Pure Mathematics Minor, University of Waterloo, Waterloo, ON, Canada. 2015 - 2019.
 	 * Graduated with distinction
 	 * University of Waterloo President's Scholarship. 2015 - 2019.
@@ -48,22 +48,19 @@ Email: [xye46 at uwo dot ca](mailto:xye46@uwo.ca).
 News
 ------
 September 12, 2024
-:   I am happy to announce that our research project, supervised by [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html) is finally published by *Finance Research Letters* 😀. This paper explores which volatility index (VIX) maturity to use in affine GARCH model estimation. To rank models' forecasting performance, we utilize a novel modification, namely the model confidence class (MCC) upon the traditional and widely applied model confidence set (MCS) approach that will rank models in statistically comparably performing classes (tiers). In addition to the best-performing models, this procedure will also split the inferior models apart. With the help of MCC, our results show that 1-month VIX is an overall favourite 😁 and 1-year VIX (VIX1Y) is the least desirable to use 😭. [This paper](https://www.sciencedirect.com/science/article/pii/S1544612324010833) is now open access. <br/><br/>
+:   I am happy to announce that our research project, supervised by [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html) is finally published by *Finance Research Letters* 😀. This paper explores which volatility index (VIX) maturity to use in affine GARCH model estimation. To rank models' forecasting performance, we utilize a novel modification, namely the model confidence class (MCC) upon the traditional and widely applied model confidence set (MCS) approach that will rank models in statistically comparably performing classes (tiers). In addition to the best-performing models, this procedure will also split the inferior models apart. With the help of MCC, our results show that 1-month VIX is an overall favourite 😁 and 1-year VIX (VIX1Y) is the least desirable to use 😭. [This paper](https://doi.org/10.1016/j.frl.2024.106053) is now open access. <br/><br/>
 
 July 02, 2024
-:   I passed the [Financial Risk Manager (FRM)](https://www.garp.org/frm) Exam Part I with top quartiles (1111) in all 4 subjects 😁. Topics in Part I give a holistic view of enterprise risk management and are beneficial to everyone working at finance firms. ~ One step further to FRM ~. <br/><br/>
+:   I passed the [Financial Risk Manager (FRM)](https://www.garp.org/frm) Exam Part I with [top quartiles (1111)](https://xizeye.github.io/files/frm.pdf) in all 4 subjects 😁. Topics in Part I give a holistic view of enterprise risk management and are beneficial to everyone working at finance firms. ~ One step further to the FRM designation ~. <br/><br/>
 
 June 21, 2024
-:   I am deeply honored to receive the 2023 - 2024 Faculty of Science Graduate Student Teaching Award 😊. <br/><br/>
+:   I am deeply honored to receive the 2023 - 2024[Faculty of Science Graduate Student Teaching Award](https://xizeye.github.io/TAaward) 😊. <br/><br/>
 
 March 13, 2024
-:   Completed [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html). ~ Keep sharpening lecturing and public speaking skills ~. <br/><br/>
-
-March 13, 2024
-:   Completed [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html). ~ Keep sharpening lecturing and public speaking skills ~. <br/><br/>
+:   Completed [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html). ~ Keep sharpening lecturing and public speaking skills ~.  <br/><br/>
 
 January 04, 2024
-:   Completed [Advanced Teaching Program](https://teaching.uwo.ca/programs/allprograms/atp.html). By discussing   up-to-date research on university teaching with peers, I learned and practiced student-centered learning pricinples with active learning strategies. It was worth the time. <br/><br/>
+:   Completed [Advanced Teaching Program](https://teaching.uwo.ca/programs/allprograms/atp.html). By discussing   up-to-date research on university teaching with peers, I learned and practiced student-centered learning pricinples with active learning strategies. It was worth the time. [[Certificate](https://xizeye.github.io/files/ATP.pdf)] <br/><br/>
 
 October 25, 2023
 :   Happy to announce that I joined the Graduate Affairs Committee as a graduate student representative. 
