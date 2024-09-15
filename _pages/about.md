@@ -14,7 +14,7 @@ Hello there! My name is Xize Ye, a PhD candidate at Western University under the
 
 I believe in the power of lifelong learning and exploration, and aim to make meaningful contributions both in my research and within my department. As a passionate educator, I strive to foster active, student-centered learning environments in mathematics, statistics and finance. Through ongoing participation in workshops and training programs, I continuously work to enhance my skills in teaching, communication, and conflict resolution.
 
-Research Interests
+Research interests
 ------
 * Mathematical finance
 * Derivative pricing
