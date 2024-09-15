@@ -63,8 +63,8 @@ October 25, 2023
 
 Contact
 ------
-**Xize Ye**, PhD candidate in Statistics
-Department of Statistical and Actuarial Sciences
+**Xize Ye**, PhD candidate in Statistics<br/>
+Department of Statistical and Actuarial Sciences<br/>
 Faculty of Science
 Western University, London, Ontario, Canada
 
