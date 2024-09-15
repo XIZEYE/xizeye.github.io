@@ -21,7 +21,7 @@ Research Interests
 * Stochastic volatility
 * GARCH
 
-[Here](https://xizeye.github.io/Research/) for the list of my publications and conference attendance.
+[Here](https://xizeye.github.io/research/) for the list of my publications and conference attendance.
 
 *[GARCH]: Generalized Autoregressive Conditional Heteroskedasticity
 
