@@ -54,7 +54,7 @@ July 02, 2024
 :   I passed the [Financial Risk Manager (FRM)](https://www.garp.org/frm) Exam Part I with [top quartiles (1111)](https://xizeye.github.io/files/frm.pdf) in all 4 subjects 😁. Topics in Part I give a holistic view of enterprise risk management and are beneficial to everyone working at finance firms. ~ One step further to the FRM designation ~. <br/><br/>
 
 June 21, 2024
-:   I am deeply honored to receive the 2023 - 2024[Faculty of Science Graduate Student Teaching Award](https://xizeye.github.io/TAaward) 😊. <br/><br/>
+:   I am deeply honored to receive the 2023 - 2024 [Faculty of Science Graduate Student Teaching Award](https://xizeye.github.io/TAaward) 😊. <br/><br/>
 
 March 13, 2024
 :   Completed [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html). ~ Keep sharpening lecturing and public speaking skills ~.  <br/><br/>
