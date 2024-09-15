@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/personal_pic.jpg" alt="Image" width="400"/>
+<img src="/images/personal_pic.jpg" alt="Image" width="400"/>\
 <span style="font-size:0.5em;">Left: Zaloong; Right: Xize</span>
 
 Hello there! My name is Xize Ye, a PhD candidate at Western University under the supervision of [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html). Our research focuses on the development of a novel class of Generalized Autoregressive Conditionally Stochastic Heteroskedasticity (GARCSH) models with applications in financial derivative pricing. You can download my most recent CV [here](https://xizeye.github.io/files/cv.pdf).
