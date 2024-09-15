@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome to my homepage! 
-
-![Image](/images/personal_pic.jpg)
+<img src="/images/personal_pic.jpg" alt="Image" width="600"/>
 
 Hello there! My name is Xize Ye, a PhD candidate at Western University under the supervision of [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html). Our research focuses on the development of a novel class of Generalized Autoregressive Conditionally Stochastic Heteroskedasticity (GARCSH) models with applications in financial derivative pricing. You could download my most recent CV [here](https://xizeye.github.io/files/cv.pdf).
 
@@ -38,6 +36,15 @@ Education
 	 * University of Waterloo President's Scholarship 2015-2019.
 	 * Faculty of Mathematics Entrance Scholarship.
 
+Contact
+------
+**Xize Ye**, PhD candidate in Statistics<br/>
+Department of Statistical and Actuarial Sciences<br/>
+Faculty of Science<br/>
+Western University, London, Ontario, Canada
+
+Email: [xye46 at uwo dot ca](xye46@uwo.ca).
+
 News
 ------
 September 12, 2024
@@ -61,11 +68,4 @@ January 04, 2024
 October 25, 2023
 :   Happy to announce that I joined the Graduate Affairs Committee as a graduate student representative. 
 
-Contact
-------
-**Xize Ye**, PhD candidate in Statistics<br/>
-Department of Statistical and Actuarial Sciences<br/>
-Faculty of Science<br/>
-Western University, London, Ontario, Canada
-
-Email: [xye46 at uwo dot ca](xye46@uwo.ca).
+Webpage last updated: September 14, 2024
