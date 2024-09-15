@@ -35,9 +35,9 @@ Education
  * MSc in Statistics, Financial Modelling,  Western University, London, ON, Canada. 2019 - 2021.
 	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/etd/7923/)<br/><br/>
  * BMath in Mathematical Finance, Pure Mathematics Minor, University of Waterloo, Waterloo, ON, Canada. 2015 - 2019.
-	 * Graduated with distinction
-         * Faculty of Mathematics Entrance Scholarship
-         * University of Waterloo President's Scholarship
+	* Graduated with distinction
+  	* Faculty of Mathematics Entrance Scholarship
+  	* University of Waterloo President's Scholarship
 
 Contact
 ------
@@ -65,6 +65,7 @@ January 04, 2024
 :   Completed [Advanced Teaching Program](https://teaching.uwo.ca/programs/allprograms/atp.html). By discussing   up-to-date research on university teaching with peers, I learned and practiced student-centered learning pricinples with active learning strategies. It was worth the time. [[Certificate](https://xizeye.github.io/files/ATP.pdf)] <br/><br/>
 
 October 25, 2023
-:   Happy to announce that I joined the Graduate Affairs Committee as a graduate student representative. 
+:   Happy to announce that I joined the Graduate Affairs Committee as a graduate student representative. <br/><br/>
+
 
 Webpage last updated: September 15, 2024
