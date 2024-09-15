@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "2023 - 2024 Faculty of Science Graduate Student Teaching Award"
 permalink: /TAaward/
 author_profile: true
