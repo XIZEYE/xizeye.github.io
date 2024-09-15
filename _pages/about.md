@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <img src="/images/personal_pic.jpg" alt="Image" width="400"/>
-<span style="font-size:0.5em;">Left: Zaloong; Right: Xize.</span>
+<span style="font-size:0.5em;">Left: Zaloong<br/>Right: Xize</span>
 
 Hello there! My name is Xize Ye, a PhD candidate at Western University under the supervision of [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html). Our research focuses on the development of a novel class of Generalized Autoregressive Conditionally Stochastic Heteroskedasticity (GARCSH) models with applications in financial derivative pricing. You can download my most recent CV [here](https://xizeye.github.io/files/cv.pdf).
 
@@ -31,17 +31,16 @@ Education
 	 * Society of Graduate Students (SOGS) department councillor
 	 * 2023 - 2024 Faculty of Science Graduate Student Teaching Award<br/><br/>
  * MSc in Statistics, Financial Modelling,  Western University, London, ON, Canada. 2019 - 2021.
-	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=10524&context=etd)<br/><br/>
+	 * *Thesis*: [*On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach*](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=10524&context=etd)<br/><br/>
  * BMath in Mathematical Finance, Pure Mathematics Minor, University of Waterloo, Waterloo, ON, Canada. 2015 - 2019.
-	 * Graduated with Distinction
-	 * University of Waterloo President's Scholarship 2015-2019.
+	 * Graduated with distinction
+	 * University of Waterloo President's Scholarship. 2015 - 2019.
 	 * Faculty of Mathematics Entrance Scholarship.
 
 Contact
 ------
 **Xize Ye**, PhD candidate in Statistics<br/>
 Department of Statistical and Actuarial Sciences<br/>
-Faculty of Science<br/>
 Western University, London, Ontario, Canada
 
 Email: [xye46 at uwo dot ca](xye46@uwo.ca).
@@ -49,13 +48,13 @@ Email: [xye46 at uwo dot ca](xye46@uwo.ca).
 News
 ------
 September 12, 2024
-:   I am happy to announce that our research project, supervised by [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html) is finally published by *Finance Research Letters* 😀. This paper explores which volatility index (VIX) maturity to use in affine GARCH model estimation. To rank models' forecasting performance, we utilize a novel modification, namely the model confidence class (MCC) upon the traditional and widely applied model confidence set (MCS) approach that will rank models in statistically comparably performing classes (tiers). In addition to the best-performing models, this procedure will also split the inferior models apart. With the help of MCC, our results show that 1-month VIX is an overall favourite 😁 and 1-year VIX (VIX1Y) is the least desirable to use 😭 . [This paper](https://www.sciencedirect.com/science/article/pii/S1544612324010833) is now open access. <br/><br/>
+:   I am happy to announce that our research project, supervised by [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html) is finally published by *Finance Research Letters* 😀. This paper explores which volatility index (VIX) maturity to use in affine GARCH model estimation. To rank models' forecasting performance, we utilize a novel modification, namely the model confidence class (MCC) upon the traditional and widely applied model confidence set (MCS) approach that will rank models in statistically comparably performing classes (tiers). In addition to the best-performing models, this procedure will also split the inferior models apart. With the help of MCC, our results show that 1-month VIX is an overall favourite 😁 and 1-year VIX (VIX1Y) is the least desirable to use 😭. [This paper](https://www.sciencedirect.com/science/article/pii/S1544612324010833) is now open access. <br/><br/>
 
 July 02, 2024
 :   I passed the [Financial Risk Manager (FRM)](https://www.garp.org/frm) Exam Part I with top quartiles (1111) in all 4 subjects 😁. Topics in Part I give a holistic view of enterprise risk management and are beneficial to everyone working at finance firms. ~ One step further to FRM ~. <br/><br/>
 
 June 21, 2024
-:   I am deeply honored to receive the 2023 - 2024 Faculty of Science Graduate Student Teaching Award😊. <br/><br/>
+:   I am deeply honored to receive the 2023 - 2024 Faculty of Science Graduate Student Teaching Award 😊. <br/><br/>
 
 March 13, 2024
 :   Completed [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html). ~ Keep sharpening lecturing and public speaking skills ~. <br/><br/>
