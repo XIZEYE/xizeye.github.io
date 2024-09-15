@@ -22,15 +22,15 @@ GARCH Models. A Heston-Nandi GARCH Insight. *Econometrics and Statistics*. *In p
 Academic activities
 ------
 * The 12th Annual Canadian Statistics Student Conference, Memorial University, St. John's, Newfoundland and Labrador, Canada. 2024.
-	* Presenter. Title: *Generalized Autoregressive Conditionally Stochastic Heteroskedasticity: Motivation and Applications* [[Slides](https://xizeye.github.io/files/cssc24.pdf)] <br/><br/>
+	* Presenter. Title: *Generalized Autoregressive Conditionally Stochastic Heteroskedasticity: Motivation and Applications*. [[Slides](https://xizeye.github.io/files/cssc24.pdf)] <br/><br/>
 * The 4th Department of Statistical and Actuarial Sciences (DSAS) Graduate Colloquium, Western University, London, Ontario, Canada. 2023.
 	* Chair.<br/><br/>
 * The 2nd Department of Statistical and Actuarial Sciences (DSAS) Graduate Colloquium, Western University, London, Ontario, Canada. 2023.
-	* Presenter. Title: *Generalized Autoregressive Conditionally Stochastic Heteroskedasticity: Motivation and Applications* [[Slides](https://xizeye.github.io/files/dsas23.pdf)]<br/><br/>
+	* Presenter. Title: *Generalized Autoregressive Conditionally Stochastic Heteroskedasticity: Motivation and Applications*. [[Slides](https://xizeye.github.io/files/dsas23.pdf)]<br/><br/>
 * [Fields-CFI-CQAM Industrial Problem-Solving Workshop](http://www.fields.utoronto.ca/activities/21-22/CFI-IPSW), Online, 2021.
      * Case study participant. Project title: *Counterparty Credit Risk Migration Indicator* <br/><br/>
 * [The 3rd iCAIR (international Research Centre in Asset Management, Insurance and Risk Management) Online Seminar](https://www.math.cit.tum.de/en/mathfinance/icair-1/seminar-2020/), Online, 2020.
-	* Presenter. Title: *Affine GARCH option valuation models* [[Slides](https://xizeye.github.io/files/dsas23.pdf)]
-	* Case study participant. Project title: *Deep Hedging* [[Slides](https://xizeye.github.io/files/icair20.pdf)]<br/><br/>
+	* Presenter. Title: *Affine GARCH option valuation models*. [[Slides](https://xizeye.github.io/files/dsas23.pdf)]
+	* Case study participant. Project title: *Deep Hedging*. [[Slides](https://xizeye.github.io/files/icair20.pdf)]<br/><br/>
 
 
