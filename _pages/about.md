@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <img src="/images/personal_pic.jpg" alt="Image" width="400"/>
-<span style="font-size:0.5em;">Left: Zaloong<br/>Right: Xize</span>
+<span style="font-size:0.5em;">Left: Zaloong; Right: Xize</span>
 
 Hello there! My name is Xize Ye, a PhD candidate at Western University under the supervision of [Prof. Marcos Escobar-Anel](https://www.uwo.ca/stats/people/bios/marcos-escobar-anel.html) and [Prof. Lars Stentoft](https://economics.uwo.ca/people/faculty/stentoft.html). Our research focuses on the development of a novel class of Generalized Autoregressive Conditionally Stochastic Heteroskedasticity (GARCSH) models with applications in financial derivative pricing. You can download my most recent CV [here](https://xizeye.github.io/files/cv.pdf).
 
@@ -31,7 +31,7 @@ Education
 	 * Society of Graduate Students (SOGS) department councillor
 	 * 2023 - 2024 Faculty of Science Graduate Student Teaching Award<br/><br/>
  * MSc in Statistics, Financial Modelling,  Western University, London, ON, Canada. 2019 - 2021.
-	 * *Thesis*: [*On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach*](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=10524&context=etd)<br/><br/>
+	 * *Thesis*: [On the estimation of Heston-Nandi GARCH using returns and/or options: a simulation-based approach](https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=10524&context=etd)<br/><br/>
  * BMath in Mathematical Finance, Pure Mathematics Minor, University of Waterloo, Waterloo, ON, Canada. 2015 - 2019.
 	 * Graduated with distinction
 	 * University of Waterloo President's Scholarship. 2015 - 2019.
@@ -43,7 +43,7 @@ Contact
 Department of Statistical and Actuarial Sciences<br/>
 Western University, London, Ontario, Canada
 
-Email: [xye46 at uwo dot ca](xye46@uwo.ca).
+Email: [xye46 at uwo dot ca](mailto:xye46@uwo.ca).
 
 News
 ------
