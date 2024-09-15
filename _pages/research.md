@@ -34,3 +34,6 @@ Academic activities
 	* Case study participant. Project title: *Deep Hedging*. [[Slides](https://xizeye.github.io/files/icair20_deep.pdf)]<br/><br/>
 
 
+ [Back to homepage](https://xizeye.github.io/)
+
+
