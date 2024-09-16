@@ -10,43 +10,26 @@ Teaching Responsibilities
 ------
 The table below summarizes my teaching responsibilities during my academic career. These experiences included direct involvement in university teaching and prepared me well for future assignments.
 
-| #  | Term        | Institution        | Course #   | Course Title                 |
-|:------:|:------:|:------:|:------:|:------:|
-|11| 2024 Spring | Western University | Stats 2141 | Applied Probability\(^{1,2}\)|
-|10 | 2024 Winter | Western University | Stats 2864 | Statistical Programming\(^{1,2,3,*}\)|
-|9 | 2023 Fall | Western University | FM 2555 | Corporate Finance\(^{1,2,3}\)|
-|8 | 2022 Winter | Western University | FM 4521 | Advanced Financial Modelling$^{1,2}$|
-|7 | 2022 Winter | Western University | DS 1000 | Data Science Concepts$^{1,2,3}$|
-|6 | 2021 Fall | Western University | DS 1000 | Data Science Concepts$^{1,2,3}$|
-|5 | 2021 Winter | Western University | Calc 1301 | Calculus II$^{1,2,*}$|
-|4 | 2020 Fall | Western University | Calc 1000 | Calculus I$^{1,2,*}$|
-|3 | 2020 Winter | Western University | Calc 1301 | Calculus II$^{1,2}$|
-|2 | 2017 Winter | University of Waterloo | Math 146 | Linear Algebra Advanced$^1$|
-|1| 2016 Fall | University of Waterloo | Math 137 | Calculus I$^1$|
+| #  | Term        | Institution        | Course #   | Course Title                 | Duties |
+|:------:|:------:|:------:|:------:|:------:| :------:|
+|11| 2024 Spring | Western University | Stats 2141 | Applied Probability | 1,2| 
+|10 | 2024 Winter | Western University | Stats 2864 | Statistical Programming| 1,2,3,* |
+|9 | 2023 Fall | Western University | FM 2555 | Corporate Finance | 1,2,3
+|8 | 2022 Winter | Western University | FM 4521 | Advanced Financial Modelling | 1,2
+|7 | 2022 Winter | Western University | DS 1000 | Data Science Concepts | 1,2,3
+|6 | 2021 Fall | Western University | DS 1000 | Data Science Concepts | 1,2,3
+|5 | 2021 Winter | Western University | Calc 1301 | Calculus II | 1,2,*
+|4 | 2020 Fall | Western University | Calc 1000 | Calculus I | 1,2,*
+|3 | 2020 Winter | Western University | Calc 1301 | Calculus II | 1,2
+|2 | 2017 Winter | University of Waterloo | Math 146 | Linear Algebra Advanced | 1
+|1| 2016 Fall | University of Waterloo | Math 137 | Calculus I | 1
 
+Duties:
 
-end of table. 
-hehe
-
-
-
-| #  | Term        | Institution        | Course #   | Course Title                 |
-|:-----:|:------------:|:-------------:|:----------------:|:---------------------------:|
-|11| 2024 Spring | Western University | Stats 2141 | Applied Probability\(^{1,2}\)|
-|10 | 2024 Winter | Western University | Stats 2864 | Statistical Programming\(^{1,2,3,*}\)|
-|9 | 2023 Fall | Western University | FM 2555 | Corporate Finance\(^{1,2,3}\)|
-|8 | 2022 Winter | Western University | FM 4521 | Advanced Financial Modelling$^{1,2}$|
-|7 | 2022 Winter | Western University | DS 1000 | Data Science Concepts$^{1,2,3}$|
-|6 | 2021 Fall | Western University | DS 1000 | Data Science Concepts$^{1,2,3}$|
-|5 | 2021 Winter | Western University | Calc 1301 | Calculus II$^{1,2,*}$|
-|4 | 2020 Fall | Western University | Calc 1000 | Calculus I$^{1,2,*}$|
-|3 | 2020 Winter | Western University | Calc 1301 | Calculus II$^{1,2}$|
-|2 | 2017 Winter | University of Waterloo | Math 146 | Linear Algebra Advanced$^1$|
-|1| 2016 Fall | University of Waterloo | Math 137 | Calculus I$^1$|
- \(^1\)Duties include office hours (help sessions) and marking assignments.
- \(^2\)Duties include marking exams.
-$^3$Duties include lecture-style teaching (e.g. weekly laboratories, review sessions, problem-solving sessions, lectures, and etc.)
-$^*$Lead TA
+1: Duties include office hours (help sessions) and marking assignments. <br/>
+2: Duties include marking exams.<br/>
+3: Duties include lecture-style teaching (e.g. weekly laboratories, review sessions, problem-solving sessions, lectures, and etc.)<br/>
+*: Lead TA
 
 Personal Development
 ------
