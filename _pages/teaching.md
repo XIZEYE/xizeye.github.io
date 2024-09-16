@@ -11,6 +11,18 @@ Teaching Responsibilities
 The table below summarizes my teaching responsibilities during my academic career. These experiences included direct involvement in university teaching and prepared me well for future assignments.
 
 | #  | Term        | Institution        | Course #   | Course Title                 |
+|:------:|:------:|:------:|:------:|:------:|
+|11| 2024 Spring | Western University | Stats 2141 | Applied Probability$^{1,2}$
+10 | 2024 Winter | Western University | Stats 2864 | Statistical Programming$^{1,2,3,*}$
+9 | 2023 Fall | Western University | FM 2555 | Corporate Finance$^{1,2,3}$
+8 | 2022 Winter | Western University | FM 4521 | Advanced Financial Modelling$^{1,2}$
+
+end of table. 
+hehe
+
+
+
+| #  | Term        | Institution        | Course #   | Course Title                 |
 |:-----:|:------------:|:-------------:|:----------------:|:---------------------------:|
 |11| 2024 Spring | Western University | Stats 2141 | Applied Probability\(^{1,2}\)|
 |10 | 2024 Winter | Western University | Stats 2864 | Statistical Programming\(^{1,2,3,*}\)|
