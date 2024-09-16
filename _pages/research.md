@@ -21,9 +21,9 @@ GARCH Models. A Heston-Nandi GARCH Insight. *Econometrics and Statistics*. *In p
 
 Academic activities
 ------
-* The 12th Annual Canadian Statistics Student Conference, Memorial University, St. John's, Newfoundland and Labrador, Canada. 2024.
+* The 12th Annual Canadian Statistics Student Conference, Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada. 2024.
 	* Presenter. Title: *Generalized Autoregressive Conditionally Stochastic Heteroskedasticity: Motivation and Applications*. [[Slides](https://xizeye.github.io/files/cssc24.pdf)] <br/><br/>
-* The 4th Department of Statistical and Actuarial Sciences (DSAS) Graduate Colloquium, Western University, London, Ontario, Canada. 2023.
+* The 4th Department of Statistical and Actuarial Sciences (DSAS) Graduate Colloquium, Western University, London, Ontario, Canada. 2024.
 	* Chair.<br/><br/>
 * The 2nd Department of Statistical and Actuarial Sciences (DSAS) Graduate Colloquium, Western University, London, Ontario, Canada. 2023.
 	* Presenter. Title: *Generalized Autoregressive Conditionally Stochastic Heteroskedasticity: Motivation and Applications*. [[Slides](https://xizeye.github.io/files/dsas23.pdf)]<br/><br/>
