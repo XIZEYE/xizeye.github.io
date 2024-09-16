@@ -36,7 +36,7 @@ Personal Development
 I have participated in the following *programs* to excel in my teaching, communication, and conflict resolution skills.
  * [Western Certificate in University Teaching and Learning](https://teaching.uwo.ca/programs/certificates/cutl.html) (WCUTL, **in progress**): This certificate contains 5 components that involve microteaching requirements, workshop credits, completion of the [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html) (TMP) and 2 written projects. I expect to complete this certificate in Fall 2024.  <br/><br/>
  * [Teaching Mentor Program](https://teaching.uwo.ca/programs/allprograms/teachingmentor.html) (TMP): An interconnected program involves a group of 4 graduate students. The group members will attend each other's lectures and provide feedback and letters of recommendation. Completed in Winter 2024. <br/><br/>
- * [Advanced Teaching Program](https://teaching.uwo.ca/programs/allprograms/atp.html) (ATP): A short course for developing teaching skills. The program involves workshops, microteaching sessions with peer evaluation, and a written project. Completed in Fall 2023. <br/><br/>
+ * [Advanced Teaching Program](https://teaching.uwo.ca/programs/allprograms/atp.html) (ATP): A short course for developing teaching skills. The program involves workshops, microteaching sessions with peer evaluation, and a written project. Completed in Fall 2023. [[Credential](https://xizeye.github.io/files/ATP.pdf)] <br/><br/>
 
 I have participated in the following synchronous *workshops*:
 * Future Prof Series: Conflict resolution in the Canadian classroom
