@@ -23,6 +23,9 @@ If you don't enjoy 2-column CV you could also use Jake's resume template to prod
 ### Cover Letter
 The template I use to write all letters can be found [here](https://www.overleaf.com/latex/templates/imperial-college-london-cover-letter-template/kdtqbsyyhnmb). Be sure to include a logo for your institution to make the letter more formal.
 
+### Response to reviewers
+The template I use to write my responses to reviewers can be found [here](https://www.overleaf.com/latex/templates/author-response-to-review-comments/kjxffkbxkfzk). This template has lots of potential and you can always make some simple customizations to make the appearance fit your liking.
+
 ### Reports 
 I found [this](https://www.latextemplates.com/template/sullivan-business-report) template to be very good in producing reports and written projects. The [LaTeX Templates](https://www.latextemplates.com/) website also contains other great templates that are worth to check out.
 
