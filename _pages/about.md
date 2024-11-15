@@ -29,9 +29,7 @@ News
 ------
 ### November 13, 2024
 
-After 3 years of participation in the University Teaching training program, I am glad to share that I officially graduated and obtained my [Western Certificate in University Teaching and Learning](https://xizeye.github.io/files/Teaching_Certificate_Xize.pdf)! This is a very special moment because I have learned and grown so much in many directions, including curriculum design, effective means of delivery, active learning strategies, communication skills, conflict resolution, and diversity and inclusion. Special thanks to the instructors and staff at the Center for Teaching and Learning (CTL) at Western University. Your collective effort elevated the whole experience!
-
-Keep learning, keep going ~ 🎉. Just received the [edX verified certificate](https://xizeye.github.io/files/Stanford_SQL_certificate.pdf) for the [Stanford Online course in Relational Databases and SQL](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql)! Very helpful course with a detailed curriculum and practice tools, would definitely recommend! Another similar course is the [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science) by UC Davis. Wishing everybody good luck on the journey of self improvement!📈<br/><br/>
+After 3 years of participation in the University Teaching training program, I am glad to share that I officially graduated and obtained my [Western Certificate in University Teaching and Learning](https://xizeye.github.io/files/Teaching_Certificate_Xize.pdf):relaxed:! This is a very special moment because I have learned and grown so much in many directions, including curriculum design, effective means of delivery, active learning strategies, communication skills, conflict resolution, and diversity and inclusion. Special thanks to the instructors and staffs at the [Center for Teaching and Learning](https://teaching.uwo.ca/) (CTL) at Western University. Your collective effort elevated the whole experience :two_hearts:!<br/><br/>
 
 
 ### October 14, 2024
@@ -82,4 +80,4 @@ Western University, London, Ontario, Canada
 
 Email: [xye46 at uwo dot ca](mailto:xye46@uwo.ca).
 
-Webpage last updated: October 15, 2024
+Webpage last updated: November 15, 2024
